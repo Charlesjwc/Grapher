@@ -1,0 +1,4 @@
+NOTE:
+Java file is ready to compile. Grapher contains main method, Prompt is a separate scanner tool used in Grapher for user input.
+To use:  Enter in a single variable function f(x) when prompted, then the graph is printed and values given.
+         Window can be adjusted afterwards to fit the graph
